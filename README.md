@@ -3,4 +3,4 @@
 
 ### Yandex.Practicum student from Russia. ###
 ### I'm currently learning Python, Django, DRF, Linux, Docker. ###
-### How to reach me tg: @DProkofiev ###
+### How to contact me? tg: @DProkofiev ###
